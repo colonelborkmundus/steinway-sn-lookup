@@ -3,6 +3,7 @@
 This is used for reference and educational purposes only. Input the serial number of your Steinway piano and it will return the approximate year of original manufacture. The table ends at the year 2017. 
 
 ![image](https://user-images.githubusercontent.com/36282948/168883127-ded9a131-1a10-4ce7-a296-564a608fd81c.png)
+
 [Source: https://steinwayreference.com]
 
 I created this because I got tired of poring over the table of serial numbers and wanted an available tool for offline use. All the reference materials out there, aside from Steinway's official serial number lookup, are tables and only tables, and that is _annoying_. The intention is also to make this simple and accessible.
