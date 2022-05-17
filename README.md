@@ -25,6 +25,6 @@ Sometimes due to age, the serial number will have faded off the plate. If you ca
 Huge thanks to https://steinwayreference.com. 
 
 # Disclaimer
-I am not in any way affiliated with Steinway or its parent company; I am merely an industry professional and lazy nerd.
+I am not in any way affiliated with Steinway or its parent company; I am merely an industry professional and lazy nerd. Once again this is for educational and reference purposes only.
 
 
