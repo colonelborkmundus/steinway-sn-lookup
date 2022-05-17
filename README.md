@@ -20,6 +20,9 @@ For grand pianos, carefully slide back the music desk and look towards the left 
 
 Sometimes due to age, the serial number will have faded off the plate. If you carefully remove the cheek blocks and the keyslip at the front of the keyboard, you will find the serial number etched into the front of the keyframe itself.
 
+# How to make this go brrrrrrrr
+tbd
+
 # Acknowledgements
 
 Huge thanks to https://steinwayreference.com. 
