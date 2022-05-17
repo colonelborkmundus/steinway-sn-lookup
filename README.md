@@ -2,6 +2,9 @@
 
 This is used for reference and educational purposes only. Input the serial number of your Steinway piano and it will return the approximate year of original manufacture. The table ends at the year 2017. 
 
+![image](https://user-images.githubusercontent.com/36282948/168883127-ded9a131-1a10-4ce7-a296-564a608fd81c.png)
+[Source: https://steinwayreference.com]
+
 I created this because I got tired of poring over the table of serial numbers and wanted an available tool for offline use. All the reference materials out there, aside from Steinway's official serial number lookup, are tables and only tables, and that is _annoying_. The intention is also to make this simple and accessible.
 
 # Wait, doesn't Steinway have their own reference tool?
@@ -11,6 +14,8 @@ Yeah, they do.
 For Steinway's official tool: https://www.steinway.com/pianos/serial-lookup. 
 
 This will tell you the model and any additional official records that they have on file. 
+
+![image](https://user-images.githubusercontent.com/36282948/168882978-4574ca30-2e48-4f28-b079-a0eb1a1f8148.png)
 
 Please note that Model 45s (this will be stamped on the top of the pinblock) are recorded as being Model 1098s; these are the same scale design and are considered the same model. In the industry, we call them Model 1098s. I feel like I have to mention this because at the time of writing this, I just looked up at 1098 that came in as a 45 and went "hmmmm, well isn't that interesting".
 
